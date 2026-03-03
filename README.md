@@ -2,11 +2,11 @@
 
 My name is Adam, 28 years old from Sweden.
 
-IT Security Specialist student with a primary focus on **defensive security** and **threat detection**, while also exploring **offensive security**. Currently in my second internship working with Wazuh SIEM, while completing my degree project on open-source SIEM solutions.
+IT Security Specialist student with a primary focus on **defensive security** and **threat detection**, while also exploring **offensive security**. Currently in my second internship.
 
 ---
 
-> 🎓 Currently completing my degree project on open-source SIEM solutions using Wazuh.
+> 🎓 Degree project: Optimizing detection capability in open-source SIEM solutions.
 
 ---
 
