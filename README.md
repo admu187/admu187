@@ -6,6 +6,10 @@ IT Security Specialist student with a primary focus on **defensive security** an
 
 ---
 
+> 🎓 Currently completing my degree project on open-source SIEM solutions using Wazuh.
+
+---
+
 ## 🛡️ Defensive Focus
 
 - **SIEM:** Configuring and tuning Wazuh with custom rules for real-time threat detection.
